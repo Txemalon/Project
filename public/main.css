@@ -2,6 +2,7 @@ body {
 
 
 .contenedor {
+  background-color: white;
   width: 100%
   max-width:1000px;
   margin:0 auto;
