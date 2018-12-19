@@ -1,5 +1,14 @@
 body {
-background-color: #eee;
 
-  padding-top: 15px;
-  font-size: 12px
+
+.contenedor {
+  width: 100%
+  max-width:1000px;
+  margin:0 auto;
+  overflow:hidden;
+}
+
+
+
+
+}
